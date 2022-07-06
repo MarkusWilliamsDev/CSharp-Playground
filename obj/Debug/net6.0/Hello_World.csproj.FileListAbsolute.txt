@@ -1,0 +1,15 @@
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/bin/Debug/net6.0/Hello_World
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/bin/Debug/net6.0/Hello_World.deps.json
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/bin/Debug/net6.0/Hello_World.runtimeconfig.json
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/bin/Debug/net6.0/Hello_World.dll
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/bin/Debug/net6.0/Hello_World.pdb
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/obj/Debug/net6.0/Hello_World.csproj.AssemblyReference.cache
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/obj/Debug/net6.0/Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/obj/Debug/net6.0/Hello_World.AssemblyInfoInputs.cache
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/obj/Debug/net6.0/Hello_World.AssemblyInfo.cs
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/obj/Debug/net6.0/Hello_World.csproj.CoreCompileInputs.cache
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/obj/Debug/net6.0/Hello_World.dll
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/obj/Debug/net6.0/refint/Hello_World.dll
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/obj/Debug/net6.0/Hello_World.pdb
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/obj/Debug/net6.0/Hello_World.genruntimeconfig.cache
+/Users/markuswilliams/Documents/Dev/csharp/Hello_World/obj/Debug/net6.0/ref/Hello_World.dll
